@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm an experienced UX designer and freelance Web developer based in Norwich, UK.
 
-### More Information
+I've spent the last 10 years designing and building user-centred solutions, using research and data to improve usability for customers and increase conversion for businesses.
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Any questions? I'm always happy to chat [ronansprake@gmail.com](mailto:ronansprake@gmail.com)
