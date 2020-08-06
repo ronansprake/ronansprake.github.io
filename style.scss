@@ -25,8 +25,8 @@ body {
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
-  padding: 0 10px;
+  max-width: 980px;
+  padding: 0 20px;
   width: 100%;
 }
 
@@ -249,6 +249,12 @@ nav {
 .posts > .post:last-child {
   padding-bottom: 1em;
   border-bottom: none;
+}
+
+.post.sticky {
+  border-left: 5px solid $darkGray;
+  padding-left: 20px;
+  margin-left: -20px;
 }
 
 .post {
