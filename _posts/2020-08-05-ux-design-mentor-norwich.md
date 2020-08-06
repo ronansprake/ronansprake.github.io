@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Looking for a UX design mentor?
+listingclass: sticky
 ---
 
 I've always loved seeing new designers grow and succeed, but opportunities in the current economy are few and far between.
