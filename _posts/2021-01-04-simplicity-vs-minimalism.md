@@ -21,4 +21,4 @@ So how do we solve this? No matter the scale of your ambitions, embrace simplici
 * A list of FAQs containing a lot of content can be simpler than a single paragraph
 * Well written content without images or illustration will always have more impact than a stylised page with dull content
 
-It all comes back to the fact that favouring minimalism for the sake of simplicity runs a high risk of being misunderstood.
+It all comes back to the fact that **favouring minimalism for the sake of simplicity runs a high risk of being misunderstood**.
