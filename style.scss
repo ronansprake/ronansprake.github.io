@@ -311,6 +311,13 @@ form {
   li {
     margin: 15px 0;
   }
+  
+  p {
+    
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
 
   blockquote {
     margin: 1.8em .8em;
