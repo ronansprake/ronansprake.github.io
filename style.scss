@@ -263,6 +263,11 @@ form {
   
   label {
     display: block;
+    margin-bottom: 5px;
+  }
+  
+  button {
+    clear: both;
   }
   
   input,
@@ -270,6 +275,7 @@ form {
     background: #FFF;
     border: 1px solid $darkGray;
     display: block;
+    margin: 0 0 20px;
     width: 100%;
   }
 }
