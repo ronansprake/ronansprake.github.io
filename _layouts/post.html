@@ -17,7 +17,11 @@ layout: default
 </article>
 
 <form class="contact" action="https://getform.io/f/18cb19c0-2098-4f57-82ca-e61c30c434c3" method="POST">
+  {% if post.listingclass == 'sticky' %}
+  <p>Please don’t hesitate to reach out 🙂</p>
+  {% else %}
   <p>Agree or disagree? I love it when people get in touch, even just to say hi!</p>
+  {% endif %}
   <label for="frm-message">Your message</label>
   <textarea id="frm-message" name="message" rows="3"></textarea>
   <div>
