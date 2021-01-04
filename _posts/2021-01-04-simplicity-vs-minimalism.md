@@ -4,7 +4,7 @@ title: Simplicity vs minimalism
 listingclass: 
 ---
 
-"We need to make it as simple as possible" .. I've heard this countless times on hundreds of projects. I get it, the intention is great and it's a good guiding principle, but what does it really mean?
+"We need to make it as simple as possible". I've heard this countless times on hundreds of projects. I get it, the intention is great and it's a good guiding principle, but what does it really mean?
 
 When spoken by a client or product owner, they're often talking about minimalism. Let's build a Minimum Viable Product! It'll be fun (and cheap)! Yep, it usually is, but despite being lean and focused, MVPs often lack simplicity and that's a real problem.
 
