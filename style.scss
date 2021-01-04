@@ -261,10 +261,15 @@ nav {
 
 form {
   
+  label {
+    display: block;
+  }
+  
   input,
   textarea {
     background: #FFF;
     border: 1px solid $darkGray;
+    display: block;
     width: 100%;
   }
 }
