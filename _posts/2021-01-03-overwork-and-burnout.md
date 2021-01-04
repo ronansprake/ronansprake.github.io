@@ -24,4 +24,4 @@ Over time I've put together some questions to ask myself, including:
 * Will the end result make you proud?
 * How does the team behave at the end, do they plough on or review and recover?
 
-Disclaimer: The tech sector is notorious for forgetting about people with "real world" jobs - nurses, drivers, teachers - who would rightly roll their eyes at all of the above.
+Disclaimer: The tech sector is notorious for forgetting about people with "real world" jobs - nurses, drivers, teachers - who would rightly roll their eyes at much of the above.
