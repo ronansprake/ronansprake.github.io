@@ -271,7 +271,14 @@ form {
     border: none;
     clear: both;
     color: #FFF;
+    cursor: pointer;
     padding: 15px 20px;
+    transition: opacity .3s;
+    
+    &:hover,
+    &:focus {
+      opacity: .8;
+    }
   }
   
   input,
