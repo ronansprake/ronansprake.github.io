@@ -259,6 +259,33 @@ nav {
   }
 }
 
+form {
+  
+  input,
+  textarea {
+    background: #FFF;
+    border: 1px solid $darkGray;
+    width: 100%;
+  }
+}
+
+.contact {
+  background-color: $lighterGray;
+  margin: 40px 0;
+  padding: 20px;
+  overflow: hidden;
+  
+  div {
+    float: left;
+    width: 45%;
+    
+    &:first-child {
+      margin-right: 5%;
+    } 
+  }
+    
+}
+
 .post {
   line-height: 1.8;
   
