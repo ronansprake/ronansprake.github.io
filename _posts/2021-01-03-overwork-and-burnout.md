@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overwork and burnout
+title: Overwork & burnout
 listingclass: 
 ---
 
@@ -10,9 +10,9 @@ For starters, working long hours under the guise of team culture is bad. Those w
 
 If a company frequently requires you to work nights and weekends, I've no doubt they’d require you to work even more if there was magically more than 24 hours in a day. They're being greedy.
 
-On the other hand, to build something great often demands sacrifice and obsessive intensity. Over a limited crunch time, that's understandable and can result in huge leaps in experience, reward and satisfaction but it's easy for this demand to creep into normal life.
+On the other hand, building something great often demands sacrifice and obsessive intensity. Over a limited crunch time, that's fine and can result in leaps of experience, reward and satisfaction but it's easy for this demand to creep into normal life.
 
-The best kind of overwork feels fulfilling, burnout occurs when there's no tangible payoff or end point. I've experienced this twice, both times were a result of grinding with no emotional reward or learning and a lack of personal care. When I wasn't working, I wasn't sleeping well, eating well, or looking after myself (the second time resulted in shingles :().
+Overwork can be fulfilling. Burnout occurs when there's no tangible payoff or end point. I've experienced this twice, both times were a result of grinding with no emotional reward or learning and a lack of personal care. When I wasn't working, I wasn't sleeping well, eating well, or looking after myself (the second time resulted in shingles 😞).
 
 It's a vicious cycle.
 
