@@ -22,6 +22,6 @@ Over time I've put together some questions to ask myself, including:
 * What's the sacrifice (personal and professional)?
 * Is the work fulfilling?
 * Will the end result make you proud?
-* How does the team behave at the end, do they plough on or review and recover?
+* How will the team behave at the end - plough on or review and recover?
 
 Disclaimer: The tech sector is notorious for forgetting about people with "real world" jobs - nurses, drivers, teachers - who would rightly roll their eyes at much of the above.
