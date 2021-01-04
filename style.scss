@@ -261,6 +261,11 @@ nav {
 
 .post {
   line-height: 1.8;
+  
+  p,
+  li {
+    margin: 15px 0;
+  }
 
   blockquote {
     margin: 1.8em .8em;
