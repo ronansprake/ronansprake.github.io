@@ -294,7 +294,7 @@ form {
     float: left;
     width: 47%;
     
-    &:first-child {
+    &:first-of-type {
       margin-right: 6%;
     } 
   }
