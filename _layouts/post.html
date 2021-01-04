@@ -13,20 +13,20 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>-->
 
-  <form class="contact" action="https://getform.io/f/18cb19c0-2098-4f57-82ca-e61c30c434c3" method="POST">
-    <p>Do you agree or disagree? I love it when people get in touch, even to say hi!</p>
-    <label for="frm-message">Your message</label>
-    <textarea id="frm-message" name="message"></textarea>
-    <div>
-      <label for="frm-name">Email (optional)</label>
-      <input id="frm-name" type="text" name="name">
-    </div>
-    <div>
-      <label for="frm-email">Email (optional)</label>
-      <input id="frm-email" type="email" name="email">
-    <div>
-    <button type="submit">Send</button>
-  </form>
-
   {% include disqus.html %}
 </article>
+
+<form class="contact" action="https://getform.io/f/18cb19c0-2098-4f57-82ca-e61c30c434c3" method="POST">
+  <p>Do you agree or disagree? I love it when people get in touch, even to say hi!</p>
+  <label for="frm-message">Your message</label>
+  <textarea id="frm-message" name="message"></textarea>
+  <div>
+    <label for="frm-name">Email (optional)</label>
+    <input id="frm-name" type="text" name="name">
+  </div>
+  <div>
+    <label for="frm-email">Email (optional)</label>
+    <input id="frm-email" type="email" name="email">
+  <div>
+  <button type="submit">Send</button>
+</form>
