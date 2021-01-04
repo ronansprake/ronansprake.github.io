@@ -290,21 +290,26 @@ form {
   background-color: $lighterGray;
   margin: 40px 0;
   padding: 20px;
-  overflow: hidden;
-  
-  div {
-    float: left;
-    width: 47%;
-    
-    &:first-of-type {
-      margin-right: 6%;
-    } 
+}
+
+@media only screen and (min-width: 1000px) {
+
+  .contact {
+    overflow: hidden;
+
+    div {
+      float: left;
+      width: 47%;
+
+      &:first-of-type {
+        margin-right: 6%;
+      } 
+    }
+
+    button {
+      clear: both;
+    }    
   }
-  
-  button {
-    clear: both;
-  }
-    
 }
 
 .post {
