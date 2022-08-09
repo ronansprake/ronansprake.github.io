@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Board game score calculators
+title: Board game scoring calculators
 listingclass: ''
 ---
 
