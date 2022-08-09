@@ -4,7 +4,7 @@ title: Board game score calculators
 listingclass: ''
 ---
 
-I love board games, but have little patience for scoring. Plus, it's easy to make mistakes, so I've built a few calculators for a few recent favourites.
+I love board games, but have little patience for scoring. Plus, it's easy to make mistakes, so I've built a few calculators for some recent favourites.
 
 Please excuse the questionable code quality. I'm rusty 😐
 
