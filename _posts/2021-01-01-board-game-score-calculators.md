@@ -12,4 +12,5 @@ Please excuse the questionable code quality. I'm rusty 😐
 - [30 Rails score calculator](//ronansprake.co.uk/30-rails-score-calculator)
 - [Cascadia score calculator](//ronansprake.co.uk/cascadia-score-calculator)
 - [Kingdomino score calculator](//ronansprake.co.uk/kingdomino-score-calculator)
+- [Wingspan score calculator](//ronansprake.co.uk/wingspan-score-calculator)
 
