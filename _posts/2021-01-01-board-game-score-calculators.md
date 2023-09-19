@@ -13,3 +13,6 @@ I love board games, but have little patience for scoring. Plus, it's easy to mak
 - [Kingdomino score calculator](//ronansprake.co.uk/kingdomino-score-calculator)
 - [Wingspan score calculator](//ronansprake.co.uk/wingspan-score-calculator)
 
+Here's my Targi solo automa, since I couldn't find one online. It uses the official solo rules, with some optional house rules:
+
+- [Targi solo automa](//ronansprake.co.uk/targi-solo-automa)
