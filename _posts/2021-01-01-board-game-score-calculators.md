@@ -15,4 +15,4 @@ I love board games, but have little patience for scoring. Plus, it's easy to mak
 
 Here's my Targi solo automa, since I couldn't find one online. It uses the official solo rules, with some optional house rules:
 
-- [Targi solo automa](//ronansprake.co.uk/targi-solo-automa)
+- [Targi solo automa / bot](//ronansprake.co.uk/targi-solo-automa)
