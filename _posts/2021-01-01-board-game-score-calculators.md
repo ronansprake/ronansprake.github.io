@@ -11,6 +11,7 @@ I love board games, but have little patience for scoring. Plus, it's easy to mak
 - [A Feast for Odin score calculator](//ronansprake.co.uk/feast-for-odin-score-calculator)
 - [Cascadia score calculator](//ronansprake.co.uk/cascadia-score-calculator)
 - [Kingdomino score calculator](//ronansprake.co.uk/kingdomino-score-calculator)
+- [Lost Cities card game score calculator](//ronansprake.co.uk/list-cities-score-calculator)
 - [Wingspan score calculator](//ronansprake.co.uk/wingspan-score-calculator)
 
 Here's my Targi solo automa / bot, since I couldn't find one online. It uses the official solo rules, with some optional house rules:
