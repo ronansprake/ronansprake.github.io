@@ -4,8 +4,8 @@ title: Hethersett board game group
 listingclass: ''
 ---
 
-If you're looking for a board gaming group local to Hethersett, please [message me](https://ronansprake.co.uk/hethersett-board-game-group#contact) and let's try to set one up!
+Looking for a board gaming group near Hethersett? [Say hi](https://ronansprake.co.uk/hethersett-board-game-group#contact) and let's make it happen!
 
-I've got a modest collection (mostly light/medium weight) and I know a few people who could bring games, but I've never taken the step to finding a venue and organising a group.
+I've not taken the step to finding a venue and organising a group - it's always easier when it's not just me - but I've got games (mostly light/medium weight) and I know a few people who might come along.
 
-Alternatively, I recommend the Mulbarton group, they meet every other Sunday evening at their social club (search for them on Facebook).
+I started a film club a few years ago by posting a similar thing, so it might seem odd thing to do, but it worked for me last time!
