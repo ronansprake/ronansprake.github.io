@@ -4,7 +4,7 @@ title: Board game scoring calculators
 listingclass: ''
 ---
 
-I love board games, but have little patience for scoring. Plus, it's easy to make mistakes, so I've built a few calculators for some recent favourites.
+I love board games, but scoring isn't much fun. Plus, it's easy to make mistakes, so I built a few calculators...
 
 - [7 Wonders Duel score calculator (includes Pantheon expansion)](//ronansprake.co.uk/7-wonders-duel-score-calculator)
 - [30 Rails score calculator](//ronansprake.co.uk/30-rails-score-calculator)
@@ -14,7 +14,7 @@ I love board games, but have little patience for scoring. Plus, it's easy to mak
 - [Lost Cities card game score calculator](//ronansprake.co.uk/lost-cities-score-calculator)
 - [Wingspan score calculator](//ronansprake.co.uk/wingspan-score-calculator)
 
-Here's my Targi solo automa / bot, since I couldn't find one online. It uses the official solo rules, with some optional house rules:
+Here's my Targi solo automa / bot, since I couldn't find one online. It uses the official solo rules, with some optional house rule options:
 
 - [Targi solo bot](//ronansprake.co.uk/targi-solo-automa)
 
