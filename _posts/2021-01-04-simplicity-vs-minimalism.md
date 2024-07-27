@@ -4,9 +4,9 @@ title: Simplicity vs minimalism
 listingclass: 
 ---
 
-"We need to make it as simple as possible". I've heard this countless times on hundreds of projects. I get it, the intention is great and it's a good guiding principle, but what does it really mean?
+"We need to make it as simple as possible". I've heard this countless times on dozens of projects. I get it, the intention is great and it's a good guiding principle, but what does it really mean?
 
-When spoken by a client or product owner, they're often talking about minimalism. Let's build a Minimum Viable Product! It'll be fun (and cheap)! Yep, it usually is, but despite being lean and focused, MVPs often lack simplicity and that's a real problem.
+When spoken by a client or product owner, they're often talking about minimalism. Let's build a Minimum Viable Product! It'll be quick and cheap! Maybe, but despite being lean and focused, MVPs often lack simplicity and that's a real problem.
 
 While simplicity aims to reduce complexity, minimalism is about reducing the elements to the strictest minimum, which often leads to confusion and accessibility issues.
 
@@ -18,7 +18,7 @@ Leaving aside the pitfalls of MVPs (maybe a future post) let's take a couple of 
 So how do we solve this? No matter the scale of your ambitions, embrace simplicity. The words you use matter, the first impression matters and ultimately, the experience of your audience should guide your definition of "simple". Get your feedback loop in place.
 
 * 3 options instead of 1 can be simpler, providing they're relevant and prioritised
-* A list of FAQs containing a lot of content can be simpler than a single paragraph
-* Well written content without images or illustration will always have more impact than a stylised page with dull content
+* 200 words formatted as a list can be simpler than a single 100 word paragraph
+* Well written content without images or illustration will have more impact than a stylised page with dull content
 
 It all comes back to the fact that **pursuing minimalism for the sake of simplicity runs a high risk of being misunderstood**.
