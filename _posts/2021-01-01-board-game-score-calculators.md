@@ -17,3 +17,7 @@ I love board games, but have little patience for scoring. Plus, it's easy to mak
 Here's my Targi solo automa / bot, since I couldn't find one online. It uses the official solo rules, with some optional house rules:
 
 - [Targi solo bot](//ronansprake.co.uk/targi-solo-automa)
+
+Here's a simple 2 player Onitama assistant, I play using a physical chess board with this page open to manage cards and turns. it includes expansion and promo cards.
+
+- [Onitama assistant](//ronansprake.co.uk/onitama-assistant)
