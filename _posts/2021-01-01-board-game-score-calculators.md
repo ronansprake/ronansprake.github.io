@@ -14,10 +14,10 @@ Too many board games, no patience for scoring. So, I built a few calculators&hel
 - [Lost Cities card game score calculator](//ronansprake.co.uk/lost-cities-score-calculator)
 - [Wingspan score calculator](//ronansprake.co.uk/wingspan-score-calculator)
 
-Here's my Targi solo automa / bot, since I couldn't find one online. It uses the official solo rules, with some optional house rule options:
+Here's my Targi solo automa / bot, it uses the official solo rules (with some optional house rules):
 
 - [Targi solo bot](//ronansprake.co.uk/targi-solo-automa)
 
-Here's a simple 2 player Onitama assistant, I play using a physical chess board with this page open to manage cards and turns. it includes expansion and promo cards.
+Here's a simple 2 player Onitama assistant - you'll need a physical 5x5 grid and pieces to play (e.g. a chess board). Includes expansion and promo cards!
 
 - [Onitama assistant](//ronansprake.co.uk/onitama-assistant)
