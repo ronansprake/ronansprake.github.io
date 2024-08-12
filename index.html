@@ -11,7 +11,8 @@ layout: default
 
 </article>
 
-<form class="contact" action="https://getform.io/f/18cb19c0-2098-4f57-82ca-e61c30c434c3" method="POST">
+<form id="contact" class="contact" action="https://getform.io/f/18cb19c0-2098-4f57-82ca-e61c30c434c3" method="POST">
+  <p>Want to get in touch? Drop me a line.</p>
   <label for="frm-message">Your message</label>
   <textarea id="frm-message" name="message" rows="3"></textarea>
   <div>
@@ -22,5 +23,7 @@ layout: default
     <label for="frm-email">Email (optional)</label>
     <input id="frm-email" type="email" name="email" />
   </div>
-  <button type="submit">Send</button>
+  <button type="submit" class="g-recaptcha" data-sitekey="6LcKDl4fAAAAABZ6l_kclJZS-JDH99RJnvWbvlCB" data-callback="onSubmit" data-action="submit">Send</button>
+  <small class="g-terms">This site is protected by reCAPTCHA and the Google <a href="https://policies.google.com/privacy">Privacy Policy</a> and <a href="https://policies.google.com/terms">Terms of Service</a> apply.</small>
 </form>
+
