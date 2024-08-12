@@ -4,7 +4,7 @@ title: Board game scoring calculators
 listingclass: ''
 ---
 
-I love board games, but scoring isn't much fun. Plus, it's easy to make mistakes, so I built a few calculators...
+Too many board games, no patience for scoring. So, I built a few calculators&hellip;
 
 - [7 Wonders Duel score calculator (includes Pantheon expansion)](//ronansprake.co.uk/7-wonders-duel-score-calculator)
 - [30 Rails score calculator](//ronansprake.co.uk/30-rails-score-calculator)
