@@ -4,7 +4,7 @@ title: Board game scoring calculators
 listingclass: ''
 ---
 
-Too many board games, no patience for scoring. So, I built a few calculators&hellip;
+Too many board games, no patience for scoring. So, I built a few calculators for games without a scoring track:
 
 - [7 Wonders Duel score calculator (includes Pantheon expansion)](//ronansprake.co.uk/7-wonders-duel-score-calculator)
 - [30 Rails score calculator](//ronansprake.co.uk/30-rails-score-calculator)
@@ -14,10 +14,10 @@ Too many board games, no patience for scoring. So, I built a few calculators&hel
 - [Lost Cities card game score calculator](//ronansprake.co.uk/lost-cities-score-calculator)
 - [Wingspan score calculator](//ronansprake.co.uk/wingspan-score-calculator)
 
-Here's my Targi solo automa / bot, it uses the official solo rules (with some optional house rules):
+My Targi solo automa / bot uses the official solo rules (with some optional house rules):
 
 - [Targi solo bot](//ronansprake.co.uk/targi-solo-automa)
 
-Here's a simple 2 player Onitama assistant - you'll need a physical 5x5 grid and pieces to play (e.g. a chess board). Includes expansion and promo cards!
+This is an assistant for 2-player Onitama (you still need the physical 5x5 grid and pieces to play):
 
 - [Onitama assistant](//ronansprake.co.uk/onitama-assistant)
