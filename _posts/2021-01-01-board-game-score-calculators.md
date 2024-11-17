@@ -18,6 +18,6 @@ My Targi solo automa / bot uses the official solo rules (with optional house rul
 
 - [Targi solo bot](//ronansprake.co.uk/targi-solo-automa)
 
-A card assistant for 2-player Onitama (you still need the 5x5 grid and pieces to play):
+Assistant for 2-player Onitama (you still need the 5x5 grid and pieces to play):
 
 - [Onitama assistant](//ronansprake.co.uk/onitama-assistant)
